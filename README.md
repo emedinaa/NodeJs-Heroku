@@ -19,3 +19,8 @@ Demo de Rest API con NodeJs - Express - MongoDb en Heroku
   ```
     sudo service mongod stop
   ```
+// backup
+
+```
+sudo mongodump --db komath --out demo
+```
